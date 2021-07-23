@@ -8,7 +8,7 @@ Professor *Gustavo Guanabara*, disponibiliza um vasto catálogo de cursos gráti
 
 ## Curso de Python 3 Módulos.
 
-								**Curso e Dividido em 3 'mundos'.**
+**Curso e Dividido em 3 'mundos'.**
 
  - **Módulo 1 -** Primeiro mundo do curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
  - **Módulo 2 -** Segundo mundo do curso explica as estruturas de repetição, conceitos e usabilidades.
